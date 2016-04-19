@@ -1,0 +1,12 @@
+[ 2015-02-28T11:44:33+08:00 ] 192.168.199.120 /piepcms/Public/img/logo@2x.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Public
+
+[ 2015-02-28T12:09:59+08:00 ] 192.168.199.120 /piepcms/Public/home/img/brand.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Public
+

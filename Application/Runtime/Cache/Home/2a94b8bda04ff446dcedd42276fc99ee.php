@@ -1,0 +1,704 @@
+<?php if (!defined('THINK_PATH')) exit();?><!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="description" content="">
+        <link rel="shortcut icon" href="favicon.ico" />
+        
+		<title>
+			蛟龙服装有限责任公司
+        </title>
+        <link rel="stylesheet" href="/piepcms/Public/home/css/bootstrap.css">
+		
+  <link rel="stylesheet" href="/piepcms/Public/home/css/jquery.flexslider.css">
+  <link rel="stylesheet" href="/piepcms/Public/home/css/font-awesome.css">
+
+		<link rel="stylesheet" href="/piepcms/Public/home/css/main.css">
+		<style type="text/css">
+			
+		</style>
+		<!--[if lt IE 9]>
+	      <script src="/piepcms/Public/common/js/html5shiv.js"></script>
+	      <script src="/piepcms/Public/common/js/respond.min.js"></script>
+	    <![endif]-->
+		<!--[if lt IE 8]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+	</head>
+	<body>
+		
+	    <div id="content">
+            
+ <div class="text-center top-logo">
+      <a href="#about" class="scroll">
+		 <img src="/piepcms/Public/home/img/logo.png"/>
+	  </a>
+  </div>
+
+  <!-- 导航 -->
+  <div class="container">
+      <div class="head-nav header header--fixed hide-from-print" role="banner" id="headerNav">
+        <div class="col-sm-3 col-sm-offset-1 hidden-xs">
+        	<a href="#about" class="scroll logo">
+		         <img src="/piepcms/Public/home/img/logo.png"/>
+		    </a>
+        </div>
+        <span class="menu text-muted visible-xs-block">
+        	<i class="fa fa-bars fa-2x"></i>
+        </span>
+        <div class="col-sm-8">
+        	<ul>
+	            <li><a href="#brand" class="scroll">品牌</a></li>
+	            <li><a href="#product" class="scroll">产品</a></li>
+	            <li><a href="#product" class="scroll">客户</a></li>
+	            <li><a href="#news" class="scroll">资讯</a></li>
+	            <li><a href="#contract" class="scroll">招聘</a></li>
+	        </ul>
+        </div>
+       </div>
+    </div>
+  <!-- /导航 -->
+  
+  <div class=""></div>
+  
+  <!-- 焦点图 -->
+  <div class="row">
+  	<div class="col-md-12">
+      <section class="slider">
+        <div class="flexslider" data-nav="1" data-page="1">
+          <ul class="slides">
+            <li>
+            <div class="slider-info">
+             	<a href="#modal-banner-1" data-toggle="modal"><img src="/piepcms/Public/home/img/banner1.jpg" class="img-responsive"/></a>
+            </div>
+            </li>
+            <li>
+	            <div class="slider-info">
+	             	<a href="#modal-banner-2" data-toggle="modal"><img src="/piepcms/Public/home/img/banner2.jpg" class="img-responsive"/></a>
+	            </div>
+            </li>
+            <li>  
+	            <div class="slider-info">
+	              	<a href="#modal-banner-3" data-toggle="modal"><img src="/piepcms/Public/home/img/banner3.jpg" class="img-responsive"/></a>
+	            </div>
+            </li>
+          </ul>
+          </div>
+      </section>
+    </div>
+  </div>
+  <!-- /焦点图 -->
+  
+  <!-- 关于 -->
+  <div class="about-holder" id="about">
+    <div class="col-md-6 about-right margin-about">
+      <h1>关于</h1>
+      <p>国际化带来竞争全球化，中国电子商务领域风云变幻，京东作为首当其冲的旗帜性企业，不可避免的会迎来更为激烈甚至白热化的商业竞争。面对愈发激烈的市场竞争，京东时刻告诫自己：我们不仅要协同战略合作伙伴加强密切合作关系，更要与对手在充分竞争的基础上展开合作。</p>
+      <p>京东在发展上秉承先人后企、以人为本的理念，在诚信的基础上建立与用户、供应商、投资方等多方合作者之间最为融洽的合作关系。“诚”代表了京东在合作关系中所坚持的诚意态度，而“信”则代表了京东以“信用”为根本的发展信条。</p>
+    </div>
+     <div class="col-md-6 about-left">
+      <img src="/piepcms/Public/home/img/about.jpg"  alt="photo">
+    </div>
+  </div>
+  <!-- /关于 -->
+
+
+  <!-- 品牌 -->
+  <div class="brand-holder" id="brand">
+  <div class="col-md-6 brand-right">
+      <img src="/piepcms/Public/home/img/services.jpg"  alt="photo">
+    </div>
+        <div class="col-md-6 brand-left margin-brand">
+            <h1>品牌</h1>
+      		<p>如果将京东比喻为一个高速运转的机器，那么，用户、员工、投资方、供应商等多方合作者则是这一机器上不可或缺的组成部分，只有多方合作者亲密无间的合作才能让这一庞大的机器正常运转。</p>
+           
+            <p>
+            	<i class="fa fa-dot-circle-o"></i>
+            	<span class="text-danger">
+            		“多”，为用户提供一站式综合购物平台为用户提供一站式综合购物。
+            	</span>
+            </p>
+            <p>
+            	<i class="fa fa-dot-circle-o"></i>
+            	<span class="text-danger">
+            		“快”，自建物流实现极速配送服务自建物流实现极速配送。
+            	</span>
+            </p>
+            <p>
+            	<i class="fa fa-dot-circle-o"></i>
+            	<span class="text-danger">
+            		“好”，坚持正品行货保证商品品质坚持正品行货保证商品品质。
+            	</span>
+            </p>
+            
+    </div>
+        
+  </div>
+  <!-- /品牌 -->
+
+            
+  <!-- 品牌图 -->            
+  <div class="container-fluid images">
+      <div class="row">
+        <div class="col-sm-6 col-md-6">
+            <div class="images-inner">
+               <img src="/piepcms/Public/home/img/image1.jpg" alt="photo">                    
+            </div>
+        </div>                                
+        <div class="col-sm-6 col-md-6">
+           <div class="images-inner">
+              <img src="/piepcms/Public/home/img/image2.jpg" alt="photo">                    
+           </div>
+        </div>                            
+      </div>
+  </div>
+  <!-- /品牌图 -->            
+
+    
+  <!-- 产品 -->            
+  <div class="container">
+      <div class="gallery" id="product">
+      	  <div class="text-center">
+      	  	产品
+      	  </div>
+          <p class="col-xs-10 col-xs-offset-1 col-lg-6 col-lg-offset-3">2014年2月27日起，京东针对自营商品配送的运费进行了调整。调整后，注册会员、铜牌会员、银牌会员、金牌会员购买自营商品满59元免运费。钻石会员、企业会员购买自营商品满39元免运费。</p>
+      </div>
+
+      <div class="row">
+          <div class="col-xs-12 col-sm-4 col-md-4 img-gallery">
+              <div class="gallery-page-wrap">
+                  <img src="/piepcms/Public/home/img/project1.jpg" alt="photo">
+                       <div class="overlay">
+                           <div class="gallery-page-inner">
+	                           <a href="#modal-product-1" data-toggle="modal"> 
+	                           		<i class="fa fa-search fa-3x"></i>
+	                           </a>
+                           </div> 
+                       </div>
+              </div>
+          </div>   
+          <div class="col-xs-12 col-sm-4 col-md-4 img-gallery">
+              <div class="gallery-page-wrap">
+                  <img src="/piepcms/Public/home/img/project2.jpg" alt="photo">
+                       <div class="overlay">
+                           <div class="gallery-page-inner">
+                           <a href="#modal-product-2" data-toggle="modal"> 
+                           	<i class="fa fa-search fa-3x"></i>
+                           </a>
+                           </div> 
+                       </div>
+              </div>
+          </div> 
+          <div class="col-xs-12 col-sm-4 col-md-4 img-gallery">
+              <div class="gallery-page-wrap">
+                  <img src="/piepcms/Public/home/img/project3.jpg" alt="photo">
+                       <div class="overlay">
+                           <div class="gallery-page-inner">
+                           <a href="#modal-product-3" data-toggle="modal"> 
+                           <i class="fa fa-search fa-3x"></i>
+                           </a>
+                           </div> 
+                       </div>
+              </div>
+          </div> 
+          <div class="col-xs-12 col-sm-4 col-md-4 img-gallery">
+              <div class="gallery-page-wrap">
+                  <img src="/piepcms/Public/home/img/project4.jpg" alt="photo">
+                       <div class="overlay">
+                           <div class="gallery-page-inner">
+                           <a href="#modal-product-4" data-toggle="modal"> 
+                          <i class="fa fa-search fa-3x"></i>
+                           </a>
+                           </div> 
+                       </div>
+              </div>
+          </div> 
+          <div class="col-xs-12 col-sm-4 col-md-4 img-gallery">
+              <div class="gallery-page-wrap">
+                  <img src="/piepcms/Public/home/img/project5.jpg" alt="photo">
+                       <div class="overlay">
+                           <div class="gallery-page-inner">
+                           <a href="#modal-product-5" data-toggle="modal"> 
+                          <i class="fa fa-search fa-3x"></i>
+                           </a>
+                           </div> 
+                       </div>
+              </div>
+          </div>  
+          <div class="col-xs-12 col-sm-4 col-md-4 img-gallery">
+              <div class="gallery-page-wrap">
+                  <img src="/piepcms/Public/home/img/project6.jpg" alt="photo">
+                       <div class="overlay">
+                           <div class="gallery-page-inner">
+                           <a href="#modal-product-6" data-toggle="modal"> 
+                          <i class="fa fa-search fa-3x"></i>
+                           </a>
+                           </div> 
+                       </div>
+              </div>
+          </div> 
+          <div class="col-xs-12 col-sm-4 col-md-4 img-gallery">
+              <div class="gallery-page-wrap">
+                  <img src="/piepcms/Public/home/img/project7.jpg" alt="photo">
+                       <div class="overlay">
+                           <div class="gallery-page-inner">
+                           <a href="#modal-product-7" data-toggle="modal"> 
+                           <i class="fa fa-search fa-3x"></i>
+                           </a>
+                           </div> 
+                       </div>
+              </div>
+          </div> 
+          <div class="col-xs-12 col-sm-4 col-md-4 img-gallery">
+              <div class="gallery-page-wrap">
+                  <img src="/piepcms/Public/home/img/project8.jpg" alt="photo">
+                       <div class="overlay">
+                           <div class="gallery-page-inner">
+                           <a href="#modal-product-8" data-toggle="modal"> 
+                          <i class="fa fa-search fa-3x"></i>
+                           </a>
+                           </div> 
+                       </div>
+              </div>
+          </div> 
+          <div class="col-xs-12 col-sm-4 col-md-4 img-gallery">
+              <div class="gallery-page-wrap">
+                  <img src="/piepcms/Public/home/img/project9.jpg" alt="photo">
+                       <div class="overlay">
+                           <div class="gallery-page-inner">
+                           <a href="#modal-product-9" data-toggle="modal"> 
+                           <i class="fa fa-search fa-3x"></i>
+                           </a>
+                           </div> 
+                       </div>
+              </div>
+          </div>           
+      </div>
+    </div>
+  <!-- /产品 -->
+           
+  <!-- 资讯 -->
+  <div class="news-holder" id="news">
+     <div class="col-md-6 news-left">
+       <img src="/piepcms/Public/home/img/news.jpg"  alt="photo">
+     </div>
+     <div class="col-md-6 news-right margin-news">
+      <section class="slider">
+        <div class="flexslider" data-nav="0" data-page="1">
+          <ul class="slides">
+            <li>
+            <div class="slider-info">
+              <h2>资讯一</h2>
+              <p class="text-left">根据该协议，京东将以认购易车网新发行普通股的形式，向易车网投资约11.5亿美元，其中包括4亿美元现金和约7.5亿美元的独家资源。这些资源包括京东为易车网独家开放各电商平台的新车和二手车频道，包括移动端应用和其他支持。</p>
+            </div>
+            </li>
+            <li>
+            <div class="slider-info">
+              <h2>资讯二</h2>
+              <p class="text-left">同时，腾讯也将以认购易车网新发行普通股的形式，向易车网投资1.5亿美元现金。易车网新发行普通股认购价格为每股73.31美元（即每股美国存托股73.31美元）。</p>
+            </div>
+            </li>
+            <li>  
+            <div class="slider-info">
+              <h2>资讯三</h2>
+              <p class="text-left">该交易预计于今年上半年完成。交易完成后，京东与腾讯将分别持有易车网稀释后的总发行流通股的25%和3.3%的股份。京东还将获得易车网董事会一个席位。同时，京东和腾讯还将分别持有易鑫资本17.7%和26.6%的股份。</p>
+            </div>
+            </li>
+          </ul>
+          </div>
+      </section>
+    </div>
+  </div>
+  <!-- /资讯 -->
+  
+   <!-- 招聘 -->
+  <div class="news-holder" id="eployee">
+     <div class="col-md-6 news-right margin-news">
+      <section class="slider">
+        <div class="flexslider" data-nav="0" data-page="1">
+          <ul class="slides">
+            <li>
+            <div class="slider-info">
+              <h2>招聘一</h2>
+              <p class="text-left">根据该协议，京东将以认购易车网新发行普通股的形式，向易车网投资约11.5亿美元，其中包括4亿美元现金和约7.5亿美元的独家资源。这些资源包括京东为易车网独家开放各电商平台的新车和二手车频道，包括移动端应用和其他支持。</p>
+            </div>
+            </li>
+            <li>
+            <div class="slider-info">
+              <h2>招聘二</h2>
+              <p class="text-left">同时，腾讯也将以认购易车网新发行普通股的形式，向易车网投资1.5亿美元现金。易车网新发行普通股认购价格为每股73.31美元（即每股美国存托股73.31美元）。</p>
+            </div>
+            </li>
+            <li>  
+            <div class="slider-info">
+              <h2>招聘三</h2>
+              <p class="text-left">该交易预计于今年上半年完成。交易完成后，京东与腾讯将分别持有易车网稀释后的总发行流通股的25%和3.3%的股份。京东还将获得易车网董事会一个席位。同时，京东和腾讯还将分别持有易鑫资本17.7%和26.6%的股份。</p>
+            </div>
+            </li>
+          </ul>
+          </div>
+      </section>
+    </div>
+     <div class="col-md-6 news-left">
+       <img src="/piepcms/Public/home/img/project4.jpg"  alt="photo">
+     </div>
+  </div>
+  <!-- /招聘 -->
+
+            
+  <!-- 联系 -->
+  <div class="contact-holder" id="contact">
+      <div class="col-md-6 contact-right">
+       	<img src="/piepcms/Public/home/img/contact.jpg"  alt="photo">
+      </div>
+      <div class="col-md-6 contact-left contact-left margin-contact">
+      <h1>联系我们</h1>
+      <p class="text-resp"></p>
+            <p>办公地址: 四川省成都市高新区天府二街296号华西证券大厦.</p>
+            <p>电子邮箱: kangming@hx168.com.cn</p>
+            <p>联系电话:13540312451</p>
+            <div class="contactlist">
+                 <a href="#"><i class="fa fa-facebook"></i></a>
+                 <a href="#" class="icon"><i class="fa fa-twitter"></i></a>
+                 <a href="#" class="icon"><i class="fa fa-instagram"></i></a>
+                 <a href="#" class="icon"><i class="fa fa-linkedin"></i></a>
+      </div>
+            <h3>mcmurphy © 2015</h3>
+    </div>
+  </div>
+  <!-- /联系 -->
+  
+  <!-- 焦点图详情弹出-->
+  <div class="portfolio-modal modal fade" id="modal-banner-1" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>Creativity</h2>
+                            <p class="item-intro">lorem ipsum</p>
+                            <img class="img-responsive" src="/piepcms/Public/home/img/project1.jpg" alt="">
+                            <p>The principle goal of education is to create a personalities who are capable of doing new things, not simply of repeating what other generations have done - a personalities who are creative, inventive and discoverers.</p>
+                            <button type="button" class="btn btn-border" data-dismiss="modal">
+	                            	关闭
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="portfolio-modal modal fade" id="modal-banner-2" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>Creativity</h2>
+                            <p class="item-intro">lorem ipsum</p>
+                            <img class="img-responsive" src="/piepcms/Public/home/img/project1.jpg" alt="">
+                            <p>The principle goal of education is to create a personalities who are capable of doing new things, not simply of repeating what other generations have done - a personalities who are creative, inventive and discoverers.</p>
+                            <button type="button" class="btn btn-border" data-dismiss="modal">
+	                            	关闭
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="portfolio-modal modal fade" id="modal-banner-3" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>Creativity</h2>
+                            <p class="item-intro">lorem ipsum</p>
+                            <img class="img-responsive" src="/piepcms/Public/home/img/project1.jpg" alt="">
+                            <p>The principle goal of education is to create a personalities who are capable of doing new things, not simply of repeating what other generations have done - a personalities who are creative, inventive and discoverers.</p>
+                            <button type="button" class="btn btn-border" data-dismiss="modal">
+	                            	关闭
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+  <!-- /焦点图详情弹出-->
+    
+  <!-- 产品详情弹出-->
+  <div class="portfolio-modal modal fade" id="modal-product-1" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>Creativity</h2>
+                            <p class="item-intro">lorem ipsum</p>
+                            <img class="img-responsive" src="/piepcms/Public/home/img/project1.jpg" alt="">
+                            <p>The principle goal of education is to create a personalities who are capable of doing new things, not simply of repeating what other generations have done - a personalities who are creative, inventive and discoverers.</p>
+                            <button type="button" class="btn btn-border" data-dismiss="modal">
+	                            	关闭
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+  <div class="portfolio-modal modal fade" id="modal-product-2" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>Creativity</h2>
+                            <p class="item-intro">lorem ipsum</p>
+                             <img class="img-responsive" src="/piepcms/Public/home/img/project2.jpg" alt="">
+                            <p>The principle goal of education is to create a personalities who are capable of doing new things, not simply of repeating what other generations have done - a personalities who are creative, inventive and discoverers.</p>
+                            <button type="button" class="btn btn-border" data-dismiss="modal">
+	                            	关闭
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+  <div class="portfolio-modal modal fade" id="modal-product-3" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>Creativity</h2>
+                            <p class="item-intro">lorem ipsum</p>
+                             <img class="img-responsive" src="/piepcms/Public/home/img/project3.jpg" alt="">
+                            <p>The principle goal of education is to create a personalities who are capable of doing new things, not simply of repeating what other generations have done - a personalities who are creative, inventive and discoverers.</p>
+                            <button type="button" class="btn btn-border" data-dismiss="modal">
+	                            	关闭
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+  <div class="portfolio-modal modal fade" id="modal-product-4" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>Creativity</h2>
+                            <p class="item-intro">lorem ipsum</p>
+                             <img class="img-responsive" src="/piepcms/Public/home/img/project4.jpg" alt="">
+                            <p>The principle goal of education is to create a personalities who are capable of doing new things, not simply of repeating what other generations have done - a personalities who are creative, inventive and discoverers.</p>
+                            <button type="button" class="btn btn-border" data-dismiss="modal">
+	                            	关闭
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+  <div class="portfolio-modal modal fade" id="modal-product-5" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>Creativity</h2>
+                            <p class="item-intro">lorem ipsum</p>
+                             <img class="img-responsive" src="/piepcms/Public/home/img/project5.jpg" alt="">
+                            <p>The principle goal of education is to create a personalities who are capable of doing new things, not simply of repeating what other generations have done - a personalities who are creative, inventive and discoverers.</p>
+                            <button type="button" class="btn btn-border" data-dismiss="modal">
+	                            	关闭
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+  <div class="portfolio-modal modal fade" id="modal-product-6" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>Creativity </h2>
+                            <p class="item-intro">lorem ipsum</p>
+                             <img class="img-responsive" src="/piepcms/Public/home/img/project6.jpg" alt="">
+                            <p>The principle goal of education is to create a personalities who are capable of doing new things, not simply of repeating what other generations have done - a personalities who are creative, inventive and discoverers.</p>
+                            <button type="button" class="btn btn-border" data-dismiss="modal">
+	                            	关闭
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+  <div class="portfolio-modal modal fade" id="modal-product-7" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>Creativity</h2>
+                            <p class="item-intro">lorem ipsum</p>
+                             <img class="img-responsive" src="/piepcms/Public/home/img/project7.jpg" alt="">
+                            <p>The principle goal of education is to create a personalities who are capable of doing new things, not simply of repeating what other generations have done - a personalities who are creative, inventive and discoverers.</p>
+                            <button type="button" class="btn btn-border" data-dismiss="modal">
+	                            	关闭
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+  <div class="portfolio-modal modal fade" id="modal-product-8" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>Creativity</h2>
+                            <p class="item-intro">lorem ipsum</p>
+                             <img class="img-responsive" src="/piepcms/Public/home/img/project8.jpg" alt="">
+                            <p>The principle goal of education is to create a personalities who are capable of doing new things, not simply of repeating what other generations have done - a personalities who are creative, inventive and discoverers.</p>
+                            <button type="button" class="btn btn-border" data-dismiss="modal">
+	                            	关闭
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+  <div class="portfolio-modal modal fade" id="modal-product-9" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>Creativity</h2>
+                            <p class="item-intro">lorem ipsum</p>
+                             <img class="img-responsive" src="/piepcms/Public/home/img/project9.jpg" alt="">
+                            <p>The principle goal of education is to create a personalities who are capable of doing new things, not simply of repeating what other generations have done - a personalities who are creative, inventive and discoverers.</p>
+                            <button type="button" class="btn btn-border" data-dismiss="modal">
+	                            	关闭
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+  <!-- /产品详情弹出-->
+
+        </div>
+
+        <script src="/piepcms/Public/home/js/jquery-1.11.0.min.js"></script> 
+		<script src="/piepcms/Public/home/js/bootstrap.min.js"></script> 
+		<script type="text/javascript">
+			$(function(){
+				
+			});
+		</script>
+        
+  <script src="/piepcms/Public/home/js/jquery.flexslider.js"></script> 
+  <script src="/piepcms/Public/home/js/headroom.js"></script> 
+  <script src="/piepcms/Public/home/js/main.js"></script> 
+
+	</body>
+</html>
